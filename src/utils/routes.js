@@ -1,0 +1,10 @@
+export const HOME = 'TrendyShop';
+export const CART = 'Sepetim';
+export const CATEGORIES = 'Kategoriler';
+export const PROFILE = 'Profilim';
+export const FAVORITES = 'Favoriler';
+export const TAB = 'TabNavigator';
+export const PRODUCTLIST = 'Tüm Ürünler';
+export const PRODUCTDETAIL = 'Ürün Detayı';
+export const CHECKOUT = 'Ödeme';
+export const LOGIN = 'Giriş Yap';
